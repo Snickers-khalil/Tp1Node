@@ -12,7 +12,7 @@ A brief description of your project.
 ![Screenshot 2](screenshot/fetchall.png)
 
 ### Screenshot 3
-![Screenshot 3](screenshot/get id.png)
+![Screenshot 3](screenshot/get_id.png)
 
 ## Installation
 Instructions for how to install the project.
