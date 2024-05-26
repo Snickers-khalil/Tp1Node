@@ -16,6 +16,10 @@ A brief description of your project.
 
 ## Installation
 Instructions for how to install the project.
+NPM i
+NPM RUN START 
+
 
 ## Usage
 Instructions for how to use the project.
+http://localhost:3000/swagger/
